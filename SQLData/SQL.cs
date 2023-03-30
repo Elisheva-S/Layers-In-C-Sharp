@@ -13,5 +13,14 @@ namespace SQLData
 
             return dataTable;
         }
+        public DataTable GetAllData2()
+        {
+            string query = @"exec tryGet";
+            DataTable dataTable = new DataTable();
+            MyDal.RunCommand(query, dataTable.Load);
+
+
+            return dataTable;
+        }
     }
 }

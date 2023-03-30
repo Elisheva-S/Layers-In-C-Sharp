@@ -5,7 +5,7 @@ namespace Practice.Controllers
 {
     public class DataConrtoller : Controller
     {
-        Entity entity=new Entity();
+        Entity entity = new Entity();
         public IActionResult Index()
         {
             return View();
@@ -15,5 +15,7 @@ namespace Practice.Controllers
         {
             return new JsonResult(entity.GetAllData());
         }
+        
+
     }
 }

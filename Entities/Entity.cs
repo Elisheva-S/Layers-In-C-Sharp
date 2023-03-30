@@ -20,8 +20,7 @@ namespace Entities
                 var mod = new Model()
                 {
                     ProductName = values[0].ToString(),
-                    CategoryName = values[1].ToString()
-                };
+                    CategoryName = values[1].ToString()                };
                 list.Add(mod);
             }
             return list;
