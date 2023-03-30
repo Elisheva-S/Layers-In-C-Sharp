@@ -1,0 +1,15 @@
+C:\Users\user1\ציונט\XNES\Practice\SQLData\obj\Debug\net6.0\SQLData.csproj.AssemblyReference.cache
+C:\Users\user1\ציונט\XNES\Practice\SQLData\obj\Debug\net6.0\SQLData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\ציונט\XNES\Practice\SQLData\obj\Debug\net6.0\SQLData.AssemblyInfoInputs.cache
+C:\Users\user1\ציונט\XNES\Practice\SQLData\obj\Debug\net6.0\SQLData.AssemblyInfo.cs
+C:\Users\user1\ציונט\XNES\Practice\SQLData\obj\Debug\net6.0\SQLData.csproj.CoreCompileInputs.cache
+C:\Users\user1\ציונט\XNES\Practice\SQLData\bin\Debug\net6.0\SQLData.deps.json
+C:\Users\user1\ציונט\XNES\Practice\SQLData\bin\Debug\net6.0\SQLData.dll
+C:\Users\user1\ציונט\XNES\Practice\SQLData\bin\Debug\net6.0\SQLData.pdb
+C:\Users\user1\ציונט\XNES\Practice\SQLData\bin\Debug\net6.0\Dal.dll
+C:\Users\user1\ציונט\XNES\Practice\SQLData\bin\Debug\net6.0\Dal.pdb
+C:\Users\user1\ציונט\XNES\Practice\SQLData\obj\Debug\net6.0\SQLData.csproj.CopyComplete
+C:\Users\user1\ציונט\XNES\Practice\SQLData\obj\Debug\net6.0\SQLData.dll
+C:\Users\user1\ציונט\XNES\Practice\SQLData\obj\Debug\net6.0\refint\SQLData.dll
+C:\Users\user1\ציונט\XNES\Practice\SQLData\obj\Debug\net6.0\SQLData.pdb
+C:\Users\user1\ציונט\XNES\Practice\SQLData\obj\Debug\net6.0\ref\SQLData.dll
